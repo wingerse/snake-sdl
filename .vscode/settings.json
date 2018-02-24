@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "sdl_mixer.h": "c",
+        "game.h": "c",
+        "sdl.h": "c",
+        "snake.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c"
+    }
+}
